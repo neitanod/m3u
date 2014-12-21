@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9df6c8d-9bdd-4eb3-b8f5-48d05749f759" name="Default" comment="" />
+    <list default="true" id="f9df6c8d-9bdd-4eb3-b8f5-48d05749f759" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/argentina.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/argentina.m3u" afterPath="$PROJECT_DIR$/argentina.m3u" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="m3u.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +41,18 @@
       <file leaf-file-name="argentina.m3u" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/argentina.m3u">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7205298" vertical-offset="0" max-vertical-offset="755">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9549669" vertical-offset="282" max-vertical-offset="1105">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="argentina.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/argentina.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="1105">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,6 +66,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/argentina.txt" />
         <option value="$PROJECT_DIR$/argentina.m3u" />
       </list>
     </option>
@@ -212,10 +227,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/argentina.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="1105">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/argentina.m3u">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7205298" vertical-offset="0" max-vertical-offset="755">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.9549669" vertical-offset="282" max-vertical-offset="1105">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
