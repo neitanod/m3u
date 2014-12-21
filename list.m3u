@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amerika",Argentina - 99.1 Vorterix Bahía – LRS791 Bahía Blanca, Argentina
+rtmp://64.56.64.54/12606/12606.stream
+#EXTINF:-1 group-title="Amerika",Argentina - AM 1010 Onda Latina – Buenos Aires, AR
+http://iphone-streaming.ustream.tv/ustreamVideo/8744353streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - AM SPORTS ARGENTINA
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - ARGENTINA TN 24 Horas
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
+#EXTINF:-1 group-title="Amerika",Argentina - C5N
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1
+#EXTINF:-1 group-title="Amerika",Argentina - C5N Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 group-title="Amerika",Argentina - Camara De Diputados- H.C.D.N – Argentina
+rtmp://argos.hcdn.gob.ar/live/evento-1-2.stream
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL 10 ENTRE RIOS ARGENTINA
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 12 – Córdoba, Argentiina
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL 13 ARGENITNA
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 13 TD (Telediario Digital) – Rio Cuarto, Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/1358413/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 26
+http://200.115.194.1:8080/Canal26?MSWMExt=.asf
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL 26 mms
+mms://200.115.194.1:1755/Canal26
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 3 – Trelew, Argentina
+rtmp://198.49.76.226:1935/inovahd/inovahd
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 5 Tigre, Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Canal 79 Mar del Plata. Argentina
+rtmp://144.76.17.146/cn79a/cn79a
+#EXTINF:-1 group-title="Amerika",Argentina - Canal Rural 1
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL RURAL 2
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+#EXTINF:-1 group-title="Amerika",Argentina - CANAL RURAL 3
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
+#EXTINF:-1 group-title="Amerika",Argentina - DOS 99.5 FM CORRIENTES ARGENTINA
+http://radiodos.coninfo.net:8500/stream?type=.flv&anticache=8342301029
+#EXTINF:-1 group-title="Amerika",Argentina - H.C.D.N.
+rtmp://argos.hcdn.gob.ar/live/evento-1-2.stream
+#EXTINF:-1 group-title="Amerika",Argentina - JUJUY TV CANAL 7 ARGENTINA
+rtsp://200.43.187.18/canal7
+#EXTINF:-1 group-title="Amerika",Argentina - LAPACHO TV CANAL 11 FORMOSA ARGENTINA
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1 group-title="Amerika",Argentina - Nuestra Radio, Cordoba, Argentina – VIDEO STREAM
+http://iphone-streaming.ustream.tv/ustreamVideo/15271401/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Amerika",Argentina - Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1 group-title="Amerika",Argentina - TN24 AR
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+#EXTINF:-1 group-title="Amerika",Argentina - Tucuman Canal 5
+rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
+#EXTINF:-1 group-title="Amerika",Argentina - VIVRA TV
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",Red Bull Tv
+http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8
+#EXTINF:-1 group-title="SPOR",NBA TV HD
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
+#EXTINF:-1 group-title="SPOR",GMM Sport Two HD
+rtmp://$OPT:rtmp-raw=rtmp://58.97.57.150/live playpath=hd04 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+#EXTINF:-1 group-title="SPOR",Sports Tonight UK
+rtmp://$OPT:rtmp-raw=rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf
+#EXTINF:-1 group-title="SPOR",TRACE SPORTS
+rtsp://46.249.213.87/broadcast/tracetvsports-tablet.3gp
+#EXTINF:-1 group-title="SPOR",Rubin TV
+rtmp://$OPT:rtmp-raw=rtmp://grey.ether.tv/live/rubin/broadcast4.flv pageUrl=http://www.planeta-online.tv pageUrl=http://www.planeta-online.tv/planeta_player.swf?ver=767 live=1
+#EXTINF:-1 group-title="SPOR",Czech - NOVA SPORT
+http://81.201.52.159:8023
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 1HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 1HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 2HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 2HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 3HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 3HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 4HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 4HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 5HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 5HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 6HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV 6HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1 group-title="SPOR",Arabic - kowait3
+rtmp://$OPT:rtmp-raw=rtmp://62.215.183.1/rtmplive/rtpencoder/ playpath=ch3.sdp swfUrl=http://www.arabichannels.com/player/player.swf?275162296185&arabichannels.com©right=2013&provider=rtmp&streamer=rtmp://arabichannels.com live=1 pageUrl=http://www.arabichannels.com/kowait3.php
+#EXTINF:-1 group-title="SPOR",Fightbox HD
+http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8
+#EXTINF:-1 group-title="SPOR",Kanalsport
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",True Sport 4
+rtmp://m22.megafun.vn/hctv/vstv018
+#EXTINF:-1 group-title="SPOR",Climb On
+rtsp://46.249.213.93/broadcast/climbon-tablet.3gp
+#EXTINF:-1 group-title="SPOR",Drift 4 Ever
+rtsp://46.249.213.93/broadcast/drift4ever-tablet.3gp
+#EXTINF:-1 group-title="SPOR",Ghetto Kid
+rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
+#EXTINF:-1 group-title="SPOR",TÜRK - FANATIK TV
+rtmp://fanatik-l.mncdn.com/fanatik_livestream/livestream3
+#EXTINF:-1 group-title="SPOR",TÜRK - FENERBAHÇE TV
+rtmp://$OPT:rtmp-raw=rtmp://live.master.cubecdn.net/fbtv playpath=stream1 swfUrl=http://live.master.cubecdn.net/player/stml/swf/flowplayer.commercial-3.2.16.swf live=true pageUrl=http://www.fbtvonline.com/
+#EXTINF:-1 group-title="SPOR",ARABIC - KTV SPORT
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp
+#EXTINF:-1 group-title="SPOR",CT SPORT
+http://212.79.96.134:8014/
+#EXTINF:-1 group-title="SPOR",STARS-PORTS
+http://m24.megafun.vn/live.vs?c=vstv033&q=high
+#EXTINF:-1 group-title="SPOR",YUNAN-GREEK - Tile Sport Tv
+rtmp://$OPT:rtmp-raw=rtmp://188.40.85.80/tilesport playpath=movie1 swfUrl=http://www.tilesport.tv/embed/mediaplayer.swf live=1 pageUrl=http://greekchannelslive2.blogspot.com/2011/01/tile-sport-tv-greece_4280.html
+#EXTINF:-1 group-title="SPOR",TURK - TRT 3-SPOR
+http://82.220.10.66/udp/239.3.10.29:30000
+#EXTINF:-1 group-title="SPOR",TURK - NTV SPOR
+rtmp://$OPT:rtmp-raw=rtmp://85.132.44.99:1935/turktv playpath=ntvspor.sdp swfUrl=http://www.livetv.az/static/player/player.swf live=1 pageUrl=http://www.livetv.az/ntv-spor/
+#EXTINF:-1 group-title="SPOR",TURK - BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1 group-title="SPOR",Turki - Eurosport
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8
+#EXTINF:-1 group-title="SPOR",Turki - Eurosport2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8
+#EXTINF:-1 group-title="SPOR",Turki - Idman TV
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:-1 group-title="SPOR",Turki - Sport+5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8
+#EXTINF:-1 group-title="SPOR",Turki - Sport1
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport01/sport01/sport01.m3u8
+#EXTINF:-1 group-title="SPOR",Turki - Sport2
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport02/sport02/sport02.m3u8
+#EXTINF:-1 group-title="SPOR",USA - College Football  B1G
+http://goo.gl/Fh08ox
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Arizona 720p
+http://goo.gl/yy2Y0F
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Arizona SD
+http://goo.gl/zFAlPa
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Bay Area 720p
+http://goo.gl/gHG3ty
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Bay Area SD
+http://goo.gl/N741Sk
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Los Angeles 720p
+http://goo.gl/m4Xaul
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Los Angeles SD
+http://goo.gl/4L4fym
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC National 1080p
+http://goo.gl/QihNtv
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC National 720p
+http://goo.gl/0CofPI
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC National SD
+http://goo.gl/hwnFUD
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Washington 720p
+http://goo.gl/ZOww80
+#EXTINF:-1 group-title="SPOR",USA - College Football PAC Washington SD
+http://goo.gl/cJQF9D
+#EXTINF:-1 group-title="SPOR",Ukraina - SPORT 2 UA
+http://85.238.102.126:7777/udp/239.2.175.95:1234
+#EXTINF:-1 group-title="SPOR",Ukraina - SPORT 1 AU
+http://85.238.102.126:7777/udp/239.2.33.80:1234
+#EXTINF:-1 group-title="SPOR",Ukraina - Eurosport 2
+http://85.238.102.126:7777/udp/239.2.127.205:1234
+#EXTINF:-1 group-title="SPOR",RUS - Viasat Sport
+http://178.49.132.73/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - Viasat Sport
+http://hls.novotelecom.ru/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - Sport
+http://178.49.132.73/streaming/sport_2/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - Sport
+http://hls.novotelecom.ru/streaming/sport_2/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - Extreme Sports
+http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - Eurosport 2
+http://178.49.132.73/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - Eurosport
+http://178.49.132.73/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - 1 Sport
+http://178.49.132.73/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",RUS - 1 Sport
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="SPOR",Portugal - SPORT TV 1:
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.38/liveedge/channelive5 pageUrl=http://championsuefa.tv/ch.php?id=HasBahCa&width=100%&height=95%
+#EXTINF:-1 group-title="SPOR",BRASIL - ESPN BRASIL
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.71/live/ playpath=master05 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/canais/ESPN%20Brasil.html
+#EXTINF:-1 group-title="SPOR",BRASIL - ESPN
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_/1hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf pageUrl=http://75.126.217.6/videoteca/play live=true timeout=10
+#EXTINF:-1 group-title="SPOR",SKANDINAV - Sweden C MORE LIVE
+http://cmorehlsedc-i.akamaihd.net/hls/live/208150/cmlivehd/02.m3u8
+#EXTINF:-1 group-title="SPOR",SKANDINAV - Sweden C MORE LIVE EXTREME
+http://cmorehlsedc-i.akamaihd.net/hls/live/208148/cmextreme/02.m3u8
+#EXTINF:-1 group-title="SPOR",SKANDINAV - Sweden C MORE LIVE FOOTBALL
+http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/01.m3u8
+#EXTINF:-1 group-title="SPOR",SKANDINAV - Sweden C MORE LIVE SPORT
+http://cmorehlsedc-i.akamaihd.net/hls/live/208145/cmsporthd/01.m3u8
+#EXTINF:-1 group-title="SPOR",THAI - HI SPORT HD
+http://103.7.57.65:1935/live/sd1/hasbahca.m3u8
+#EXTINF:-1 group-title="SPOR",THAI - GMM FOOTBALL MAX HD
+rtmp://103.7.56.16:1935/live/dcdgmm.stream
+#EXTINF:-1 group-title="SPOR",GRANDPRIX TV
+rtmp://27.131.141.254/grandprix/live
+#EXTINF:-1 group-title="SPOR",RUS - Eurosport
+http://hls.novotelecom.ru/streaming/eurosport/tvrec/playlist.m3u8?
+#EXTINF:-1 group-title="SPOR",RUS - Eurosport 2
+http://hls.novotelecom.ru/streaming/eurosport2/tvrec/playlist.m3u8?
+#EXTINF:-1 group-title="SPOR",RUS - Extreme Sports
+http://hls.novotelecom.ru/streaming/extreme_sports/tvrec/playlist.m3u8?
+#EXTINF:-1 group-title="SPOR",RUS - Fight Club
+http://hls.novotelecom.ru/streaming/fight_club/tvrec/playlist.m3u8?
+#EXTINF:-1 group-title="SPOR",RUS - Football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8?
+#EXTINF:-1 group-title="SPOR",RUS - CHL
+http://hls.novotelecom.ru/streaming/khl/tvrec/playlist.m3u8?
+#EXTINF:-1 group-title="SPOR",UK - SKY SPORTS 1
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.193:80/liverepeater playpath=141185 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title="SPOR",UK - SKY SPORTS NEWS
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.202:80/liverepeater playpath=141892 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title="SPOR",UK - SKY SPORTS 2
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.212:80/liverepeater playpath=137646 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title="SPOR",BTN
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.138:1935/stream/ playpath=0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=btn
+#EXTINF:-1 group-title="SPOR",DIRECT TV
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv
+#EXTINF:-1 group-title="SPOR",ESports 3
+rtmp://$OPT:rtmp-raw=rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
+#EXTINF:-1 group-title="SPOR",SPORT TV
+http://199.115.117.93:1935/record/CH108_Big/SPORTTV.m3u8
+#EXTINF:-1 group-title="SPOR",SPORT TV 1
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.50/liveedge/ playpath=sporttv1 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/chn.php?ch=sporttv1 â€“live
+#EXTINF:-1 group-title="SPOR",SPORT TV 1 HD
+rtmp://$OPT:rtmp-raw=rtmp://89.248.168.130:443/share/live1-rbi6c swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+#EXTINF:-1 group-title="SPOR",Sport TV 2
+rtmp://$OPT:rtmp-raw=rtmp://89.248.172.239:443/share/live2-bipmr swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF:-1 group-title="SPOR",SPORT TV 2 HD
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.50/liveedge/ playpath=sporttv2 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/chn.php?ch=sporttv2 â€“live
+#EXTINF:-1 group-title="SPOR",SPORT TV2
+http://199.115.117.93:1935/record/CH109_Big/SPORTTV2.m3u8
+#EXTINF:-1 group-title="SPOR",USA - ESPN
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
+#EXTINF:-1 group-title="SPOR",USA - ESPN VIVO
+rtmp://$OPT:rtmp-raw=rtmp://31.204.153.71/live/ playpath=master06 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN.html --live
+#EXTINF:-1 group-title="SPOR",USA - ESPNb
+rtmp://$OPT:rtmp-raw=rtmp://31.7.58.250:1935/stream/ playpath=42q5retrgh.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPNb
+#EXTINF:-1 group-title="SPOR",USA - NBA TV
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba1
+#EXTINF:-1 group-title="SPOR",USA - NBC Sport
+rtmp://$OPT:rtmp-raw=rtmp://31.7.58.122:1935/stream/ playpath=Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nbc
+#EXTINF:-1 group-title="SPOR",USA - NFL
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1
+#EXTINF:-1 group-title="SPOR",USA - SMMTV
+rtmp://$OPT:rtmp-raw=rtmp://202.162.77.38/live/ playpath=iSMM.sdp swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=SMMTV
+#EXTINF:-1 group-title="SPOR",USA - TSN
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.138:1935/stream/ playpath=0D1cF7GNSf.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=btn
+#EXTINF:-1 group-title="SPOR",CHELSEA TV
+rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
+#EXTINF:-1 group-title="SPOR",MMA
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+#EXTINF:-1 group-title="SPOR",Sky Poker
+rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124
+#EXTINF:-1 group-title="SPOR",Canal+ FUTBOL
+rtmp://$OPT:rtmp-raw=rtmp://46.28.50.116/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1 group-title="SPOR",Canal+ FUTBOL HD
+rtmp://$OPT:rtmp-raw=rtmp://146.185.25.74/live playpath=hola82?id=12956 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1 group-title="SPOR",Canal+ FUTBOL HD 2
+rtmp://$OPT:rtmp-raw=rtmp://37.130.228.52/live playpath=hola82?id=12956 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1 group-title="SPOR",CANAL+ LIGA DE CAMPEONES HD
+rtmp://$OPT:rtmp-raw=rtmp://46.23.67.68/live playpath=holaholalc?id=13040 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1 group-title="SPOR",CANAL+ LIGA DE CAMPEONES HD 2
+rtmp://$OPT:rtmp-raw=rtmp://5.63.149.180/live playpath=holaholalc?id=13040 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1 group-title="SPOR",CANAL+ LIGA DE CAMPEONES HD 3
+rtmp://$OPT:rtmp-raw=rtmp://146.185.25.130/live playpath=holaholalc?id=13040 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1 group-title="SPOR",DIRECTV SPORTS
+rtmp://$OPT:rtmp-raw=rtmp://198.105.219.132/live playpath=directv10?id=1989 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1 group-title="SPOR",ESPN UK
+rtmp://$OPT:rtmp-raw=rtmpe://play.finecast.tv/live playpath=espnukkk8 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/
+#EXTINF:-1 group-title="SPOR",GOL TV
+rtmp://$OPT:rtmp-raw=rtmp://109.123.126.34/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1 group-title="SPOR",GOL TV 2
+rtmp://$OPT:rtmp-raw=rtmp://173.192.209.69/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1 group-title="SPOR",GOL TV 3
+rtmp://$OPT:rtmp-raw=rtmp://46.28.49.156/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1 group-title="SPOR",NBA TV
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=nba1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/
+#EXTINF:-1 group-title="SPOR",NBA TV HD
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=schuster92 pageUrl=http://04stream.com/
+#EXTINF:-1 group-title="SPOR",NBA TV HD 2
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.157:1935/stream/ playpath=y8m0NU0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/
+#EXTINF:-1 group-title="SPOR",Sevilla FC
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:-1 group-title="SPOR",USA - PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="SPOR",USA - PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 group-title="SPOR",USA - PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 group-title="SPOR",USA - PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="SPOR",USA - PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title="SPOR",TÜRK -  NTV Spor
+http://79.142.197.131:7900/udp/224.1.1.29:1234
+#EXTINF:-1 group-title="SPOR",TÜRK - TRT 3-SPOR
+http://79.142.197.131:7900/udp/224.1.1.35:1234
+#EXTINF:-1 group-title="SPOR",Sport Mix
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv
+#EXTINF:-1 group-title="SPOR",ASN sports
+http://202.75.23.33:8800/live/ch26/01.m3u8
+#EXTINF:-1 group-title="SPOR",Bein sports2
+http://202.75.23.37:8800/live/ch19/01.m3u8
+#EXTINF:-1 group-title="SPOR",Eurosport
+http://202.75.23.37:8800/live/ch21/01.m3u8
+#EXTINF:-1 group-title="SPOR",Sports de combat
+http://202.75.23.37:8800/live/ch20/01.m3u8
+#EXTINF:-1 group-title="SPOR",T.A.Y. TV
+http://79.142.197.42:8888/udp/224.1.1.65:1234
+#EXTINF:-1 group-title="SPOR",Bein sports1
+http://202.75.23.37:8800/live/ch18/01.m3u8
+#EXTINF:-1 group-title="SPOR",Eurosport
+http://202.75.23.37:8800/live/ch21/01.m3u8
+#EXTINF:-1 group-title="SPOR",Sports de combat
+http://202.75.23.37:8800/live/ch20/01.m3u8
+#EXTINF:-1 group-title="SPOR",Wrestling TV
+rtmp://77.50.145.30/live/rtplive
+#EXTINF:-1 group-title="SPOR",NHK WORLD TV
+http://79.142.197.131:7900/udp/224.1.1.196:1234?HasBahCa?
+#EXTINF:-1 group-title="SPOR",NHK WORLD TV
+http://79.142.197.131:7900/udp/224.1.1.191:1234?HasBahCa?
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV7 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+#EXTINF:-1 group-title="SPOR",SPORT TIME TV7 HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1 group-title="SPOR",Ten Cricket
+http://amotv.6te.net/tot.php?07febaf06cea4afeba557b3836d959d6
+#EXTINF:-1 group-title="SPOR",***HasBahCa IPTV SPOR - SPORTS***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1 group-title="SPOR",Spain - Canal+ FUTBOL 3
+rtmp://$OPT:rtmp-raw=rtmp://46.28.50.116/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+#EXTINF:-1 group-title="SPOR",Spain - Canal+ FUTBOL 4
+rtmp://$OPT:rtmp-raw=rtmp://174.37.222.57/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
