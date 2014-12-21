@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,TELEFE HD
-http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+rtmp://sl100tb.cxnlive.com/live/telefe.stream
 #EXTINF:0,EL TRECE HD
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:0,CANAL 9 HD
