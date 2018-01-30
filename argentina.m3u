@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,TELEFE HD
 rtmp://sl100tb.cxnlive.com/live/telefe.stream
+#EXTINF:0,TELEFE HD 2
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8
 #EXTINF:0,EL TRECE HD
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:0,CANAL 9 HD
